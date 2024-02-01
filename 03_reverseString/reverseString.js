@@ -8,5 +8,4 @@ const reverseString = function(string) {
     return text
 };
 
-// Do not edit below this line
-module.exports = reverseString;
+reverseString("Pablito clavo un clavito")
